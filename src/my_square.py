@@ -1,5 +1,5 @@
-def my_square(x):
+def my_square(y):
 	""" takes a value and returns the square value
 	uses the ** operator... """
-	return (x **2)
-print my_square(4)
+	return (y **2)
+print my_square(42)
